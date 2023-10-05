@@ -1,0 +1,15 @@
+steps:
+  integrationArtifactDeploy:
+    cpiApiServiceKeyCredentialsId: teched23blr07
+    integrationFlowId: P2007453639-flow4
+  integrationArtifactGetMplStatus:
+    cpiApiServiceKeyCredentialsId: teched23blr07
+    integrationFlowId: P2007453639-flow4
+  integrationArtifactUpload:
+    cpiApiServiceKeyCredentialsId: teched23blr07
+    integrationFlowId: P2007453639-flow4
+    integrationFlowName: P2007453639-flow4
+    packageId: CICD
+    filePath: P2007453639-flow4.zip
+    
+    
